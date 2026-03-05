@@ -310,12 +310,12 @@ def main() -> None:
     """
     st.set_page_config(
         page_title=APP_TITLE,
-        page_icon="🧪",
+        page_icon="",
         layout="wide",
     )
 
     # Header global aplikasi
-    st.markdown(f"# 🧪 {APP_TITLE}")
+    st.markdown(f"#  {APP_TITLE}")
     st.markdown(f"### {APP_SUBTITLE}")
     st.markdown(
         "Aplikasi ini membantu pencarian bahan berdasarkan **Nama Bahan** atau **E-Number**, "
@@ -427,6 +427,7 @@ def main() -> None:
 if __name__ == "__main__":
 
     main()
+
 
 
 
