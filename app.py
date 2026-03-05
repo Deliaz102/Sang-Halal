@@ -17,8 +17,8 @@ import streamlit as st
 # =========================
 # Konfigurasi & Konstanta
 # =========================
-APP_TITLE = "Kamus Halal"
-APP_SUBTITLE = "Solusi Pencarian Status Kehalalan Bahan Baku Produk"
+APP_TITLE = "Kamus Halal Farmasi dan Kosmetik"
+APP_SUBTITLE = "Menyediakan referensi terminologi halal yang terstandar, sistematis, dan berbasis regulasi serta ilmu farmasi guna mendukung peningkatan literasi, kompetensi akademik, dan implementasi Sistem Jaminan Produk Halal di bidang farmasi dan kosmetika."
 DATA_FILE_DEFAULT = "data_halal.json"
 
 STATUS_OPTIONS = ["Halal", "Syubhat", "Haram"]
@@ -427,4 +427,5 @@ def main() -> None:
 if __name__ == "__main__":
 
     main()
+
 
