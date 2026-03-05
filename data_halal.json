@@ -1,0 +1,137 @@
+[
+  {
+    "Nama_Bahan": "Etanol (Ethanol) Farmasi",
+    "Kategori": "Pelarut",
+    "E_Number": "",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Etanol adalah alkohol yang banyak dipakai sebagai pelarut/ko-solven dan antiseptik. Titik kritis halal utamanya pada asal-usul produksi: (1) fermentasi bahan berpati/bergula (nabati) yang kemudian dimurnikan; (2) sintesis petrokimia. Isu syubhat muncul bila etanol berasal dari proses/industri yang terkait minuman beralkohol (khamr) atau rantai pasoknya tidak terpisah, serta pada penggunaan internal (oral) pada sediaan. Dari sisi kimia, etanol murni (C2H5OH) sama, namun status halal dipengaruhi sumber dan tujuan penggunaan serta tata kelola kontaminasi silang.",
+    "Substitusi_Halal": "Propilen glikol, gliserol nabati, PEG 400, air murni (sesuai kebutuhan formulasi).",
+    "Referensi": "Fatwa MUI tentang Alkohol/Etanol dalam Produk; Pedoman/Standar Halal BPJPH terkait bahan dan ketertelusuran."
+  },
+  {
+    "Nama_Bahan": "Gelatin (Sapi)",
+    "Kategori": "Pengikat / Pembentuk Gel",
+    "E_Number": "E441",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Gelatin adalah protein kolagen hasil hidrolisis dari kulit/tulang hewan. Titik kritis: (1) spesies hewan (sapi vs babi), (2) status penyembelihan sesuai syariat, (3) kemungkinan pencampuran bahan baku dari berbagai sumber di fasilitas rendering. Secara farmasi, gelatin dipakai untuk kapsul keras/lunak dan sebagai gelling agent. Jika sapi tetapi tidak jelas penyembelihan atau rantai pasok, maka syubhat.",
+    "Substitusi_Halal": "Gelatin bersertifikat halal (sapi dengan penyembelihan syar'i) atau alternatif nabati seperti HPMC (hypromellose) untuk kapsul, pektin, agar, karagenan.",
+    "Referensi": "Fatwa MUI tentang Gelatin; Pedoman/Standar Halal BPJPH terkait bahan hewani dan penyembelihan."
+  },
+  {
+    "Nama_Bahan": "Gelatin (Babi)",
+    "Kategori": "Pengikat / Pembentuk Gel",
+    "E_Number": "E441",
+    "Status": "Haram",
+    "Titik_Kritis": "Gelatin dari babi berasal dari kolagen babi; sumber hewani babi jelas diharamkan. Secara farmasi sering digunakan pada kapsul dan gelling agent, namun asal-usul babi menetapkan status haram tanpa melihat proses pemurnian.",
+    "Substitusi_Halal": "HPMC (hypromellose) kapsul nabati, gelatin halal (sapi/ikan bersertifikat), pektin, agar, karagenan.",
+    "Referensi": "Fatwa MUI tentang Kehalalan Produk Mengandung Unsur Babi; Pedoman/Standar Halal BPJPH."
+  },
+  {
+    "Nama_Bahan": "Gliserin (Glycerol/Gliserol)",
+    "Kategori": "Humektan / Pelarut",
+    "E_Number": "E422",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Gliserol dapat berasal dari: (1) hidrolisis/transesterifikasi minyak nabati (misal sawit, kedelai), (2) lemak hewani (tallow), atau (3) sintesis petrokimia. Titik kritis halal pada sumber lemak: jika berasal dari hewan non-halal atau hewan halal tanpa kepastian penyembelihan, status menjadi syubhat/haram. Dalam farmasi dipakai sebagai humektan, pemanis, dan ko-solven pada sirup/sediaan oral/topikal.",
+    "Substitusi_Halal": "Gliserin nabati bersertifikat halal; propilen glikol; sorbitol (E420) sesuai kompatibilitas.",
+    "Referensi": "Fatwa MUI/Pedoman Halal terkait Gliserin berbasis hewani; Standar BPJPH tentang ketertelusuran bahan."
+  },
+  {
+    "Nama_Bahan": "Magnesium Stearat",
+    "Kategori": "Lubrikan",
+    "E_Number": "E470b",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Magnesium stearat adalah garam magnesium dari asam stearat. Asam stearat dapat berasal dari hidrogenasi/pemurnian minyak nabati (sawit, kedelai) atau dari lemak hewani (tallow). Titik kritis pada asal asam lemak (C18:0) dan proses pemisahan di fasilitas oleokimia yang mungkin juga memproses tallow. Dalam tablet/kapsul digunakan sebagai pelumas untuk mencegah sticking pada mesin tablet.",
+    "Substitusi_Halal": "Magnesium stearat dari sumber nabati bersertifikat halal; natrium stearil fumarat; L-leusin; kalsium stearat nabati.",
+    "Referensi": "Pedoman/Standar Halal BPJPH untuk turunan asam lemak; Fatwa MUI terkait bahan turunan lemak hewani."
+  },
+  {
+    "Nama_Bahan": "Laktosa Monohidrat",
+    "Kategori": "Pengisi (Diluen)",
+    "E_Number": "",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Laktosa berasal dari whey susu (asal hewani). Titik kritis halal umumnya terkait bahan penolong proses pada industri susu/keju (misal enzim rennet/kimiosin, kultur mikroba) dan potensi penggunaan enzim dari sumber hewan non-halal atau tanpa kepastian penyembelihan. Secara farmasi, laktosa digunakan sebagai pengisi tablet/kapsul dan carrier pada DPI.",
+    "Substitusi_Halal": "Selulosa mikrokristalin (MCC), manitol, pati pregelatinisasi, dicalcium phosphate anhydrous (sesuai formulasi).",
+    "Referensi": "Pedoman Halal BPJPH untuk bahan turunan susu; Fatwa MUI terkait enzim/penolong proses pada produk susu."
+  },
+  {
+    "Nama_Bahan": "Karmin (Carmine/Cochineal)",
+    "Kategori": "Pewarna",
+    "E_Number": "E120",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Karmin adalah pigmen merah yang diekstraksi dari serangga cochineal (Dactylopius coccus). Titik kritis: sumber berasal dari hewan (serangga) sehingga status halal dapat diperselisihkan tergantung standar/otoritas halal dan metode ekstraksi/pemurnian. Dalam farmasi digunakan sebagai pewarna pada sirup, tablet salut, dan kosmetik.",
+    "Substitusi_Halal": "Pewarna mineral/oksida besi (E172), titanium dioxide (E171—perhatikan regulasi setempat), antosianin dari sumber nabati (E163), beetroot red (E162) jika sesuai stabilitas.",
+    "Referensi": "Pedoman/Standar Halal BPJPH terkait bahan asal serangga; Fatwa/ketetapan lembaga halal terkait E120."
+  },
+  {
+    "Nama_Bahan": "Polisorbat 80 (Polysorbate 80/Tween 80)",
+    "Kategori": "Emulgator / Surfaktan",
+    "E_Number": "E433",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Polisorbat 80 adalah ester sorbitan teretoksilasi dengan asam oleat. Titik kritis pada asal asam oleat (dari minyak nabati atau lemak hewani) dan pada rantai pasok oleokimia. Secara farmasi digunakan sebagai surfaktan untuk meningkatkan kelarutan dan stabilitas emulsi/larutan, termasuk pada injeksi tertentu dan sediaan oral/topikal.",
+    "Substitusi_Halal": "Polisorbat 80 dari asam oleat nabati bersertifikat halal; lesitin kedelai/lesitin bunga matahari; poloksamer; PEG-40 hydrogenated castor oil (pastikan sumber).",
+    "Referensi": "Pedoman Halal BPJPH untuk surfaktan turunan asam lemak; Fatwa MUI terkait turunan lemak hewani."
+  },
+  {
+    "Nama_Bahan": "Lesitin Kedelai (Soy Lecithin)",
+    "Kategori": "Emulgator",
+    "E_Number": "E322",
+    "Status": "Halal",
+    "Titik_Kritis": "Lesitin kedelai adalah fosfolipid dari sumber nabati (kedelai). Titik kritis utamanya pada bahan penolong proses ekstraksi (misal pelarut heksana) dan potensi kontaminasi silang di fasilitas yang juga memproses lesitin telur/hewani. Jika rantai pasok terkontrol dan tidak ada bahan hewani non-halal, umumnya halal.",
+    "Substitusi_Halal": "Lesitin bunga matahari; gum arab; poloksamer (sesuai kebutuhan formulasi).",
+    "Referensi": "Pedoman/Standar Halal BPJPH terkait bahan nabati dan bahan penolong proses."
+  },
+  {
+    "Nama_Bahan": "HPMC (Hypromellose)",
+    "Kategori": "Pengental / Pembentuk Film / Bahan Kapsul Nabati",
+    "E_Number": "E464",
+    "Status": "Halal",
+    "Titik_Kritis": "HPMC adalah turunan selulosa (nabati) yang dimodifikasi (eterifikasi) sehingga bersifat semisintetis. Titik kritis halal umumnya pada bahan penolong proses, anti-foaming, atau pelarut yang digunakan saat produksi, namun secara asal bahan selulosa nabati menjadikannya halal apabila proses dan fasilitas memenuhi persyaratan bebas kontaminasi.",
+    "Substitusi_Halal": "Methylcellulose (E461), CMC-Na (E466), pullulan (jika diperlukan), pati termodifikasi tertentu.",
+    "Referensi": "Pedoman Halal BPJPH untuk polimer berbasis selulosa; ketentuan fasilitas bebas kontaminasi."
+  },
+  {
+    "Nama_Bahan": "Natrium Benzoat (Sodium Benzoate)",
+    "Kategori": "Pengawet",
+    "E_Number": "E211",
+    "Status": "Halal",
+    "Titik_Kritis": "Natrium benzoat adalah garam asam benzoat yang umumnya diproduksi secara sintetis dari bahan petrokimia. Titik kritis halal rendah karena bukan turunan hewani. Perlu kontrol hanya pada bahan tambahan proses dan kebersihan fasilitas. Dalam farmasi dipakai sebagai pengawet antimikroba pada sediaan cair.",
+    "Substitusi_Halal": "Kalium sorbat (E202), asam sorbat (E200), parabens sintetis (dengan verifikasi proses), benzyl alcohol (dengan verifikasi sumber).",
+    "Referensi": "Pedoman Halal BPJPH untuk bahan sintetis; standar umum bahan tambahan pangan/obat yang tidak bersumber hewani."
+  },
+  {
+    "Nama_Bahan": "Paraben (Metilparaben)",
+    "Kategori": "Pengawet",
+    "E_Number": "E218",
+    "Status": "Syubhat",
+    "Titik_Kritis": "Metilparaben adalah ester p-hidroksibenzoat (umumnya sintetis). Titik kritis halal sering berada pada sumber alkohol untuk esterifikasi (misal metanol/etanol) dan pada kemungkinan penggunaan etanol dalam proses, serta segregasi fasilitas. Secara kimia, bila seluruh prekursor dan bahan penolong proses dipastikan non-khamr dan/atau memenuhi kriteria halal, dapat menjadi halal; tanpa bukti, sering diklasifikasikan syubhat untuk kehati-hatian.",
+    "Substitusi_Halal": "Natrium benzoat (E211), kalium sorbat (E202), phenoxyethanol (verifikasi), sistem pengawet kombinasi berbasis asam organik (sesuai pH).",
+    "Referensi": "Pedoman Halal BPJPH terkait bahan kimia sintetis yang melibatkan alkohol proses; Fatwa MUI terkait alkohol sebagai bahan/proses."
+  },
+  {
+    "Nama_Bahan": "Asam Sitrat (Citric Acid)",
+    "Kategori": "Pengatur Keasaman / Kelator",
+    "E_Number": "E330",
+    "Status": "Halal",
+    "Titik_Kritis": "Asam sitrat umumnya diproduksi melalui fermentasi mikroba (misal Aspergillus niger) dari substrat gula/molase (nabati). Titik kritis: media fermentasi (nutrien, antifoam) dan bahan penolong proses (filtrasi, karbon aktif) yang bisa saja memiliki asal hewani. Jika pemasok menyediakan jaminan halal untuk bahan penolong proses, status halal.",
+    "Substitusi_Halal": "Asam laktat (verifikasi sumber), asam malat (E296), natrium sitrat (E331).",
+    "Referensi": "Pedoman Halal BPJPH untuk produk fermentasi; ketentuan bahan penolong proses dan media."
+  },
+  {
+    "Nama_Bahan": "Heparin (Antikoagulan)",
+    "Kategori": "Bahan Aktif (API)",
+    "E_Number": "",
+    "Status": "Haram",
+    "Titik_Kritis": "Heparin secara komersial banyak diekstraksi dari mukosa usus babi (porcine intestinal mucosa) atau kadang dari sumber hewan lain. Titik kritis utama: asal-usul hewani babi yang haram. Dalam farmasi digunakan sebagai antikoagulan injeksi dan bahan pelapis tertentu.",
+    "Substitusi_Halal": "Heparin dari sumber bovine bersertifikat halal (jika tersedia dan regulatori memungkinkan), antikoagulan alternatif seperti fondaparinux atau LMWH tertentu (dengan verifikasi sumber), sesuai indikasi klinis.",
+    "Referensi": "Fatwa MUI terkait penggunaan bahan asal babi; Pedoman BPJPH terkait bahan hewani haram."
+  },
+  {
+    "Nama_Bahan": "Insulin Rekombinan (Human Insulin Recombinant)",
+    "Kategori": "Bahan Aktif (Bioteknologi)",
+    "E_Number": "",
+    "Status": "Halal",
+    "Titik_Kritis": "Insulin rekombinan diproduksi menggunakan mikroorganisme (misal E. coli atau ragi) melalui teknologi DNA rekombinan. Titik kritis halal bukan pada molekul insulin (peptida), tetapi pada media fermentasi, bahan penolong proses (enzim, antifoam), dan bahan pembawa/stabilisator yang mungkin berasal dari hewan (misal gelatin, albumin) pada beberapa produk. Jika seluruh bahan penolong dan eksipien dipastikan halal/terkendali, maka halal.",
+    "Substitusi_Halal": "Jika ada isu pada eksipien tertentu, gunakan produk insulin rekombinan dengan eksipien bersertifikat halal atau formulasi alternatif sesuai persetujuan regulatori dan klinis.",
+    "Referensi": "Pedoman Halal BPJPH untuk produk bioteknologi/fermentasi; ketentuan bahan penolong proses."
+  }
+]
