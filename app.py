@@ -228,7 +228,7 @@ def render_tab_edukasi() -> None:
     st.info(
         """
 **Apa itu Titik Kritis Bahan Obat?**  
-*Titik kritis* adalah bagian/parameter dalam bahan atau proses pembuatan obat yang berpotensi menentukan status halal, 
+*Titik kritis* adalah bagian/parameter dalam bahan atau proses pembuatan obat atau kosmetik yang berpotensi menentukan status halal, 
 misalnya karena melibatkan sumber **hewani**, penggunaan **bahan penolong proses** tertentu, atau risiko **kontaminasi silang**.
 
 Contoh titik kritis yang sering muncul:
@@ -360,19 +360,19 @@ def main() -> None:
     st.sidebar.caption(f"Total data: **{len(data)}** bahan")
 
     # Tabs
-    tab1, tab2, tab3 = st.tabs(["📖 Kamus Bahan", "📚 Edukasi Titik Kritis", "ℹ️ Tentang Aplikasi"])
+    tab1, tab2, tab3 = st.tabs(["📖 Kamus Terminologi", "📚 Edukasi Titik Kritis", "ℹ️ Tentang Aplikasi"])
 
     # =========================
     # Tab 1: Kamus Bahan
     # =========================
     with tab1:
-        st.markdown("## 📖 Kamus Bahan")
-        st.caption("Cari bahan berdasarkan Nama Bahan atau E-Number, lalu buka hasil untuk melihat detailnya.")
+        st.markdown("## 📖 Kamus Terminologi")
+        st.caption("Cari bahan berdasarkan nama atau istilah, lalu buka hasil untuk melihat detailnya.")
 
         # Search bar (dipindahkan ke Tab 1)
         query = st.text_input(
-            "🔎 Pencarian (Nama Bahan atau E-Number)",
-            placeholder="Contoh: 'Magnesium stearat' atau 'E433'...",
+            "🔎 Pencarian (Nama atau Istilah)",
+            placeholder="Contoh: 'Gelatin' atau 'Pork'...",
         )
 
         results = apply_search_and_filters(
@@ -427,6 +427,7 @@ def main() -> None:
 if __name__ == "__main__":
 
     main()
+
 
 
 
