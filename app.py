@@ -421,9 +421,10 @@ def main() -> None:
         render_tab_tentang()
 
     st.divider()
-    st.caption("© Kamus Halal Farmasi — Prototype Streamlit (CPNS Aktualisasi)")
+    st.caption("© Proyek Aktualisasi Latsar — Mochamad Fajar Deliaz A4/K3 ")
 
 
 if __name__ == "__main__":
 
     main()
+
